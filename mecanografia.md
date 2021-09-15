@@ -4,5 +4,5 @@ Aquí cuento mis movidas de mecanografía. [Estas son las del profe](https://git
 
 ### 15 de septiembre
 
-hice esto
+hoy e estado haciendo mecanografia para poder apre nde ha escribir mas rapido y no se q mas contar la vedad pero sigo escribiendo porq si 
 
