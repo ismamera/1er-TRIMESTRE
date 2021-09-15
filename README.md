@@ -19,3 +19,7 @@ Forma dos de enlaces:
 [Github del profesor](https://github.com/d-prieto/)
 
 ![](https://user-images.githubusercontent.com/60569015/117958562-6e3e5600-b31b-11eb-91a3-825233dda0ba.png)
+
+## Enlaces:
+
+[Arquitectura de ordenadores](https://github.com/ismamera/1er-trimestre/blob/main/arquiutectura%20de%20ordenadores.md)
