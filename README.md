@@ -1,8 +1,8 @@
 # 1er-trimestre
 
-holo
+hola soy isma estoy en el pfi y pos esta muy bien😃
 
-😃
+
 klk viva vox viva españa 
 
 un dia me levante y despues me dormi :v
