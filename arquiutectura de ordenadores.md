@@ -1,6 +1,6 @@
 ## Índice
 
-[clase de binario](https://github.com/ismamera/1er-trimestre/blob/main/arquiutectura%20de%20ordenadores.md#clasebinaria)
+[clase de binario](#clasebinaria)
 
 
 # Arquitectura de ordenadores
