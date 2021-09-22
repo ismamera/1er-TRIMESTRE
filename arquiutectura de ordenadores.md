@@ -20,6 +20,12 @@ hexodecimal
 
 ¿cuánto es 100000 en binario?
 
+32
+
 ¿cuánto es 1010010101110 en decimal?
 
+5294
+
 Si usas un conversor, enlázalo
+
+
