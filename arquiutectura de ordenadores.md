@@ -12,10 +12,14 @@ aqui estan los apuntes de arquitectura de los ordenadores
 deciml
 1000
 binario
-06 1000=8
+0b 1000=8
 hexodecimal
 0x 1000 2 16 000
 
 ### ejercicios de convesión
 
-tmpoco e entendido nada 
+¿cuánto es 100000 en binario?
+
+¿cuánto es 1010010101110 en decimal?
+
+Si usas un conversor, enlázalo
