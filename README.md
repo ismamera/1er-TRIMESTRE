@@ -24,4 +24,4 @@ Forma dos de enlaces:
 
 [Arquitectura de ordenadores](https://github.com/ismamera/1er-trimestre/blob/main/arquiutectura%20de%20ordenadores.md)
 
-[clase de binafrio](https://github.com/ismamera/1er-trimestre/blob/main/arquiutectura%20de%20ordenadores.md#clasebinaria)
+[clase de binariA](https://github.com/ismamera/1er-trimestre/blob/main/arquiutectura%20de%20ordenadores.md#clasebinaria)
