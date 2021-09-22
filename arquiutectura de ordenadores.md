@@ -28,4 +28,6 @@ hexodecimal
 
 Si usas un conversor, enlázalo
 
+[texto](https://www.calkoo.com/es/convertidor-binario)
+
 
