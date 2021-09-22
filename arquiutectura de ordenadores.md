@@ -1,3 +1,8 @@
+## Índice
+
+[clase de binario](https://github.com/ismamera/1er-trimestre/blob/main/arquiutectura%20de%20ordenadores.md#clasebinaria)
+
+
 # Arquitectura de ordenadores
 
 aqui estan los apuntes de arquitectura de los ordenadores
@@ -29,5 +34,4 @@ hexodecimal
 Si usas un conversor, enlázalo
 
 [conversor binario que utilizado](https://www.calkoo.com/es/convertidor-binario)
-
 
