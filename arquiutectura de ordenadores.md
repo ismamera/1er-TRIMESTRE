@@ -6,3 +6,9 @@ aqui estan los apuntes de arquitectura de los ordenadores
 
 
 no entiendo muchas cosas q ha explicado
+
+# clasebinaria
+
+## clasebinaria     
+
+### ejercicios de convesión
