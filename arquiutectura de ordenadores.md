@@ -7,7 +7,14 @@ aqui estan los apuntes de arquitectura de los ordenadores
 
 ## clasebinaria     
 
-no entendido na 
+0b se utiliza para decirle a un ordenador que un numero esta en binario
+
+deciml
+1000
+binario
+06 1000=8
+hexodecimal
+0x 1000 2 16 000
 
 ### ejercicios de convesión
 
