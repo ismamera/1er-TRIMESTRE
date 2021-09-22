@@ -19,6 +19,8 @@ Qué es un procesador.
 
 qué es la memoria ram. 
 
+La memoria RAM es donde el ordenador almacena temporalmente los datos y los programas con los que está trabajando
+
 ## Teclado
 
 
