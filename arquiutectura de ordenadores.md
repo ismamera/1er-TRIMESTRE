@@ -182,7 +182,13 @@ En el interior del PC se encuentran los siguientes componentes:
 
 2.5 RAM:
 
-La memoria RAM es donde el ordenador almacena temporalmente los datos y los programas con los que está trabajand
+La memoria RAM es donde el ordenador almacena temporalmente los datos y los programas con los que está trabajando
+
+
+##informacion sacada de joan 
+
+
+[git hub joan](https://github.com/Draken666/1er-trimestre/blob/main/ARQUITECTURA%20DE%20ORDENADORES.MD)
 
 
 
