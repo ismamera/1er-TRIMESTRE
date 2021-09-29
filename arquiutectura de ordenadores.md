@@ -191,6 +191,56 @@ La memoria RAM es donde el ordenador almacena temporalmente los datos y los prog
 [git hub joan](https://github.com/Draken666/1er-trimestre/blob/main/ARQUITECTURA%20DE%20ORDENADORES.MD)
 
 
+## targetas graficas
+
+¿que son?
+
+Una tarjeta gráfica o tarjeta de video es una tarjeta de expansión de la tarjeta madre o motherboard del computador que se encarga de procesar los datos 
+provenientes del procesador y transformarlos en información comprensible y representable en el dispositivo de salida (por ejemplo: monitor, televisor o proyector). Estas tarjetas utilizan una unidad de procesamiento gráfico o GPU, que muchas veces se usa erróneamente para referirse a la tarjeta gráfica en sí. También se les conoce como Adaptador de pantalla, Adaptador de vídeo, Placa de vídeo, y Tarjeta aceleradora de gráficos. 
+
+informacion sacada de wikipedia
+
+¿que es una cpu?
+
+La unidad central de procesamiento (conocida por las siglas CPU, del inglés Central Processing Unit) o procesador es el hardware dentro de un computador, teléfonos inteligentes y otros dispositivos programables. 
+
+### ¿que caracteristicas tiene la targeta grafica q escoji?
+
+Modelo GPU 	TU116
+Unidad de procesamiento gráfico (GPU) 	TU116-300-A1
+Arquitectura 	Turing
+Tamaño del chip 	284 mm2
+N.º de transistores 	6600 millones
+Fabricación 	12 nm TSMC
+Bloques 	22
+Sombreadores 	1408 CUDA
+Uds. textura 	88
+Uds. renderizado 	48
+Frecuencia base 	1530 MHz
+Frecuencia turbo 	1815 MHz
+Memoria
+Memoria 	6 GB
+Tipo memoria 	GDDR6 a 14 GHz
+Interfaz 	192 bits
+Rendimiento
+Tasa texturas 	159.72 GTexel/s
+Tasa píxel 	87.12 GPixel/s
+Potencia de cómputo 	5.11 TFLOPS
+Ancho banda memoria 	336.00 GB/s
+Características básicas
+Dimensiones 	204 mm × 128 mm × 42 mm
+Peso 	669 g
+Ranuras (ancho) 	2
+Temperatura máx. 	95 ºC
+Consumo 	125 W
+Fuente necesaria 	450 W
+Alimentación 	1× 8 pines
+Conectores
+HDMI 	1× 2.0b
+DisplayPort 	3× 1.4
+GeekData
+GeekRank 	40.48 %
+Diferencia de potencia 	+0.89 %
 
 
 
