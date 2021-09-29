@@ -2,8 +2,7 @@
 
 hola soy isma estoy en el pfi y pos esta muy bien😃
 
-
-klk viva vox viva españa 
+arriba españa
 
 un dia me levante y despues me dormi :v
 
