@@ -198,11 +198,13 @@ La memoria RAM es donde el ordenador almacena temporalmente los datos y los prog
 Una tarjeta gráfica o tarjeta de video es una tarjeta de expansión de la tarjeta madre o motherboard del computador que se encarga de procesar los datos 
 provenientes del procesador y transformarlos en información comprensible y representable en el dispositivo de salida (por ejemplo: monitor, televisor o proyector). Estas tarjetas utilizan una unidad de procesamiento gráfico o GPU, que muchas veces se usa erróneamente para referirse a la tarjeta gráfica en sí. También se les conoce como Adaptador de pantalla, Adaptador de vídeo, Placa de vídeo, y Tarjeta aceleradora de gráficos. 
 
-informacion sacada de wikipedia
+informacion sacada de wikipedia https://es.wikipedia.org/wiki/Tarjeta_gr%C3%A1fica
 
 ¿que es una cpu?
 
 La unidad central de procesamiento (conocida por las siglas CPU, del inglés Central Processing Unit) o procesador es el hardware dentro de un computador, teléfonos inteligentes y otros dispositivos programables. 
+
+informacion sacada de wikipedia https://es.wikipedia.org/wiki/Unidad_central_de_procesamiento
 
 ### ¿que caracteristicas tiene la targeta grafica q escoji?
 
