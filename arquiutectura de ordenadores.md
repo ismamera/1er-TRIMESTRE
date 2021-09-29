@@ -200,7 +200,7 @@ provenientes del procesador y transformarlos en información comprensible y repr
 
 informacion sacada de wikipedia https://es.wikipedia.org/wiki/Tarjeta_gr%C3%A1fica
 
-¿que es una cpu?
+¿que es una cpu?nsmiley
 
 La unidad central de procesamiento (conocida por las siglas CPU, del inglés Central Processing Unit) o procesador es el hardware dentro de un computador, teléfonos inteligentes y otros dispositivos programables. 
 
