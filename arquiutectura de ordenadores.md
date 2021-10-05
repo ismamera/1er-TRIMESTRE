@@ -312,7 +312,7 @@ Diferencia de potencia 	+0.89 %
 
 servidor o punto de acceso wifi- no tirne por que tener internet
 
-DHCP asignar de forma automatica las IPS de los ordenadoresw
+DHCP asignar de forma automatica las IPS de los ordenadores
 
 
 
