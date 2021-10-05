@@ -9,6 +9,7 @@ aqui estan los apuntes de arquitectura de los ordenadores
 
 [arquitectura de ordenadores](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf)
 
+https://webcache.googleusercontent.com/search?q=cache:5E-pxwgBai4J:https://grandecovian.es/FGC/files/D.%2520Tecnolog%25C3%25ADa/TIC%2520I/Arquitectura/Arquitectura%2520de%2520ordenadores.pdf+&cd=1&hl=es&ct=clnk&gl=es&client=ubuntu
 
 ## Procesador
 
