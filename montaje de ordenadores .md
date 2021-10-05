@@ -86,6 +86,10 @@ memoria RAM.
 ![](https://user-images.githubusercontent.com/90753264/136002496-34fd6d53-8908-4c74-8954-c374381e090a.png) FUENTE DE ALIMENTACION
 
 
+![](https://user-images.githubusercontent.com/90753264/136002691-75582dd7-c871-43a9-af90-7fc699a07ddf.png) REFRIJERACION
+
+
+
 
 
 
