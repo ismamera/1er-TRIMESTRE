@@ -71,8 +71,12 @@ memoria RAM.
 
 ### FOTOS
 
-![](https://raw.githubusercontent.com/ismamera/1er-trimestre/main/PC.jpg)
+![](https://raw.githubusercontent.com/ismamera/1er-trimestre/main/PC.jpg) LOS COMPONENTES DESMONTADOS
 
+
+
+
+![](https://user-images.githubusercontent.com/90753264/136002006-981ba1b3-0cab-4332-ae8a-4f679dcc294e.png)
 
 
 
