@@ -308,6 +308,11 @@ GeekRank 	40.48 %
 
 Diferencia de potencia 	+0.89 %
 
+### Redes locales: LAN
+
+servidor o punto de acceso wifi- no tirne por que tener internet
+
+DHCP asignar de forma automatica las IPS de los ordenadoresw
 
 
 
