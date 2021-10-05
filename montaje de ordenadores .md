@@ -68,3 +68,28 @@ El ordenador no podria funcionar porque le faltan componentes essenciales como s
 memoria RAM.
 
 ```
+
+### FOTOS
+
+![](https://raw.githubusercontent.com/ismamera/1er-trimestre/main/PC.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
