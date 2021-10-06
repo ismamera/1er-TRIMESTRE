@@ -419,7 +419,41 @@ IPv6 6bytes
 255×255×255×255×255 ------- 1,078203909×10¹² o treinta mil millones
 
 
-### transmision de la informacion en un ordenador
+### ejercicio 
+
+Velocidad-- Frecuencia* Ancho de banda bits/s H3 bits
+
+500MB/s --- 50.000 H3 ¿Cuanto es el hancho de banda?
+
+¿velocidad? 20.000 H3 86 bits
+
+160.000
+
+115kB/s
+
+Velocidad 20.000.000 * 8 = 160.000.000 bites/s
+
+160.000.000/ 8 - 1024
+
+19.531/ 1024 = 19,073242187 MB/s
+
+Los buses de datos tienen una determinada capacidad de transmisión de información. Esta capacidad se mide en información/s. Por ejemplo bites/s, KB/s, MB/s, GB/s.
+
+Para pasar de una unidad
+
+Para pasar de bit (b) a byte (B) dividimos entre 8 que es el minmo de bits en un byte.
+
+Pero pasar de byte a Kilo Byte (KB) dividimos entre 1024, que es el minimo de bytes en un KB.
+
+Kilo byte a mega byte
+
+KB en un MB
+
+MB a Giga byte (GB)
+
+Si hubieramos que pasar de bit a MB se unen _________ en este caso: Primero dividimos entre 8 y tengo 2 veces 1024, que es el minimo de bytes en un KB.
+
+
 
 
 
