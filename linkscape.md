@@ -218,6 +218,8 @@ Este sistema mezcla los tres colores primarios substractivos (CYAN , MAGENTA , A
 
 ![imagen](https://user-images.githubusercontent.com/90753264/139042440-010a89a6-0613-4f39-a50f-b7fae7a21db7.png)
 
+e cojido la ide de las fotos de google y las e ido comparando 
+
 
 
 
