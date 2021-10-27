@@ -110,8 +110,6 @@ Leon 2.SGV Prueba las diferentes funciones de Inkscape
 
 Leon 1 16x22
 
-![imagen](https://user-images.githubusercontent.com/90753264/139021055-207179d4-622e-4621-afd4-385b1ee93157.png)
-
 
 leon 2 160x
 
