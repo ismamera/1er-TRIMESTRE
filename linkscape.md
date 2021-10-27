@@ -145,8 +145,71 @@ leon de desagruoado
 
 ![imagen](https://user-images.githubusercontent.com/90753264/139030061-605a4dbb-ec58-45e0-85d5-6467c17a2348.png)
 
+Propiedades de las Formas
+
+Primero vamos a modificar:
+
+1: Relleno
+
+2:Color de trazo
+
+3:Estilo de trazo
+
+Leon 01.PNG(Relleno)
+
+leon relleno
+
+En esta imajen he hecho una mezcla de relleno con un tipo de color rosado con un azul bastante flojo , no es un color exacto he ido probando que azul flojo era mejor y alfinal a quedado asi.
+
+leon 02.PNG (COLOR DE TRAZO)
+
+LEON 02 COLOR DE TRAZO
+
+En esta imajen he querido que se resalte un poco la cara del leon para que se vea mejor entonces gracias al color de trazo he podido resaltar un poco la figura del leon , con los colores mas parecidos que la foto anterior.
+
+LEON 03.PNG(Estilo de trazo)
+
+leon 03 Estilo de trazo
+
+En esta imajen he querido improvisar algo con unas pequeñas figuras para resaltar un mas la cara del leon.
+
+Leon 04 .PNG(MIX)
+
+Leon MIX
+Tono/Saturacion
+HSL (HUE,Saturation, Light):
+
+Este sistema mezcla los siguiente;
+
+Un tono de color en la rueda cromatica = (HUE)
+
+Un canal de nivel de saturacion cromatica que va del gris al color =(Saturation)
+
+Un canal de luminosidad de color =(LIGHT)
+
+Un canal de transparencia
+
+(CMYK):
+
+
+
+Este sistema mezcla los tres colores primarios substractivos (CYAN , MAGENTA , AMARILLO) y un canal de negro. Un canal de transparencia (alfa)
+
+![imagen](https://user-images.githubusercontent.com/90753264/139053376-aa6b73a1-cff0-4f79-803f-2b9fe6ef652d.png)
+
+
+![imagen](https://user-images.githubusercontent.com/90753264/139053398-54f84467-a0e3-4ea4-93f6-b47efd4b1961.png)
+
+![imagen](https://user-images.githubusercontent.com/90753264/139053413-37abf651-08ef-439f-ad45-1210a6d827e6.png)
+
+![imagen](https://user-images.githubusercontent.com/90753264/139053439-11bac549-40ea-46d7-8982-e548e915d30c.png)
+
+
+
 
 ## mitxubisi
+
+
 
 ![imagen](https://user-images.githubusercontent.com/90753264/139042010-56479826-5988-497d-a8a7-3eb2567a75a6.png)
 
