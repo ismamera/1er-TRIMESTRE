@@ -113,14 +113,24 @@ Leon 1 16x22
 ![imagen](https://user-images.githubusercontent.com/90753264/139022333-4636f102-0d0f-4884-af5d-1b1b663f102c.png)
 
 
-leon 2 160x
+leon 2 160x226
 
-leon 3 350x
+![imagen](https://user-images.githubusercontent.com/90753264/139022819-88f6a307-1c3a-4498-ad30-d3db1502dd21.png)
 
-leon 4 800x
 
-leon 5 1500x
+leon 3 350x495
 
+![imagen](https://user-images.githubusercontent.com/90753264/139023049-bda83d03-32c4-45e5-b735-f7fdceed25a4.png)
+
+
+leon 4 800x1131
+
+![imagen](https://user-images.githubusercontent.com/90753264/139023197-7fbc3a2b-fe17-4571-8b91-79b65b2f8f20.png)
+
+
+leon 5 1500x2121
+
+![imagen](https://user-images.githubusercontent.com/90753264/139023390-4b4d7bef-d39f-4fca-9d42-47db8eddedda.png)
 
 
 
