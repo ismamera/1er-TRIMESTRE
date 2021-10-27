@@ -218,7 +218,14 @@ Este sistema mezcla los tres colores primarios substractivos (CYAN , MAGENTA , A
 
 ![imagen](https://user-images.githubusercontent.com/90753264/139042440-010a89a6-0613-4f39-a50f-b7fae7a21db7.png)
 
-e cojido la ide de las fotos de google y las e ido comparando 
+
+E cojido la ide de las fotos de google y las e ido comparando unas imagenes sacadas de google la qmas ha costado para mi ha sido la de underground la del metro de 
+
+londres aunque la de mitxubisi tmbn ha sido dificil piorq havia q junta los tiriangulos y lo q mas me ha costado ha sido encontrarlos porq no sabia donde estaban 
+
+y por eso me ha resultado deficil despues ha sido facil solo havia q unirlos y yo como lo echo mirando google a la vez me ha resultado mas facil en cambio la de 
+
+underground me ha costado un poco mas por el circulo porq me costaba hacerla
 
 
 
