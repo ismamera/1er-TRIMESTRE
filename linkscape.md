@@ -135,6 +135,9 @@ leon 5 1500x2121
 
 las imagines estan estiradas porq yo las e cojido ya estiradas y las e exportado estiradas y ahora mismo esn estiradas
 
+leon de desagruoado
+
+![imagen](https://user-images.githubusercontent.com/90753264/139029744-4f9da15c-ce7b-4907-b2ac-6b8e3450e6d0.png)
 
 
 
