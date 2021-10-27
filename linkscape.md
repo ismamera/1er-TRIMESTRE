@@ -38,6 +38,7 @@ concreta entre A y B, las lineas horizontales suelen ser:
 
 - Canal (como los tres canales de RGB) de transgregación, Este canal se llama canal alfa. Los PNG pueden tenerlo , los gif y los jpg no.
 
+![imagen](https://user-images.githubusercontent.com/90753264/139016825-f110c3af-1dfb-4bef-8160-2e4cf5a55698.png)
 
 - JPG -
 
