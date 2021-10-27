@@ -140,6 +140,12 @@ leon de desagruoado
 ![imagen](https://user-images.githubusercontent.com/90753264/139029744-4f9da15c-ce7b-4907-b2ac-6b8e3450e6d0.png)
 
 
+![imagen](https://user-images.githubusercontent.com/90753264/139029957-e5ff3077-7ce3-4d25-9bea-145660d69a13.png)
+
+
+![imagen](https://user-images.githubusercontent.com/90753264/139030061-605a4dbb-ec58-45e0-85d5-6467c17a2348.png)
+
+
 
 
 
