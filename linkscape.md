@@ -18,9 +18,11 @@ No confundir con la resolucion de impresion, medida en puntos por pulgada (ppp) 
 Nº total de pixeles: Normalmente MP (MegaPixeles) este es el numero que resulta de A x B en millones de pixeles.
 
 Un archivo puede expresar su resolucion dividiendo A x B, por ejemplo una imagen de 350x250 pixeles, esto se utiliza
+
 cuando hablamos de archivos concretos.
 
 Lineas horizontales: En video se utiliza la cantidad de lineas horizontales, normalmente se asume una proporcion
+
 concreta entre A y B, las lineas horizontales suelen ser:
 
 -240p
@@ -30,23 +32,31 @@ concreta entre A y B, las lineas horizontales suelen ser:
 -2k
 -4k
 
+
 - Espacios de color
+
 - sistemas para detallar colores
+
 - RGB (red green blue) para pantallas
+
 - CYMK (cyan magenta yellow black) para imprimir
+
 - Colores indexados - gifs
 
 - Canal (como los tres canales de RGB) de transgregación, Este canal se llama canal alfa. Los PNG pueden tenerlo , los gif y los jpg no.
 
-![imagen](https://user-images.githubusercontent.com/90753264/139016825-f110c3af-1dfb-4bef-8160-2e4cf5a55698.png)
 
 - JPG -
+![imagen](https://user-images.githubusercontent.com/90753264/139016825-f110c3af-1dfb-4bef-8160-2e4cf5a55698.png)
 
 - GIF -
+![imagen](https://user-images.githubusercontent.com/90753264/139016965-de1bacbf-210d-4681-bf87-e3084c953946.png)
 
 - PNG -
+![imagen](https://user-images.githubusercontent.com/90753264/139017020-89f3d8c9-fee1-480e-b812-c6031ee7c66b.png)
 
 - Leon Rosa Bonheur -
+![imagen](https://user-images.githubusercontent.com/90753264/139016997-15697429-98e8-424b-99a2-65145477e335.png)
 
 Museo del prado
 
@@ -66,24 +76,36 @@ Copiar y pegar
 Clic derecho en la imagen - vectorizar mapa de bits
 
 Existen varias opciones; lo primero es decidir si el programa hará una o más pasadas. Con una única pasada
+
 siempre obtendremos una imagen en blanco y negro (que después podremos colorear), una única pasada / cuantización
+
 de colores - agrupa dos o más en colores similares corte de luminosidad.
 
 Varias pasadas: nos permite hacer una imagen vectorial más compleja, con varios grises o colores. Esto necesita más capacidad de proceso .
 
-León 1.SGV - Después de importar el león vamos a ajustar el lienzo, para ello vamos a propiedades de documento, en tamaño vamos a ajustar página a contenido, seleccionamos la imagen y pulsamos el botón ajustar página al contenido o selección.
+León 1.SGV - Después de importar el león vamos a ajustar el lienzo, para ello vamos a propiedades de documento, en tamaño vamos a ajustar página a contenido, 
+
+seleccionamos la imagen y pulsamos el botón ajustar página al contenido o selección.
 
 Vectorizamos el león con las siguientes caractersticas:
 
     Múltiples pasadas
-    Cambiamos Colores
-    8 pasadas
-    Guardamos como león.SGV
-    Lo subimos al github
+  
+  Cambiamos Colores
+  
+  8 pasadas
+ 
+ Guardamos como león.SGV
+   
+   Lo subimos al github
+
+https://raw.githubusercontent.com/Baultek/1-Trimestre/2a0b80d81f7e0ff1eb207b15296f2ab8ca91c5df/Imagenes%20montaje%20de%20ordenadores/Leon%201.svg
+
 
 Leon 2.SGV Prueba las diferentes funciones de Inkscape
 
 
+![imagen](https://user-images.githubusercontent.com/90753264/139017117-b4bb3e05-23de-49bb-84d4-f7b47b54399b.png)
 
 
 
