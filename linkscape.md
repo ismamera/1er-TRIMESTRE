@@ -133,7 +133,7 @@ leon 5 1500x2121
 ![imagen](https://user-images.githubusercontent.com/90753264/139023390-4b4d7bef-d39f-4fca-9d42-47db8eddedda.png)
 
 
-
+las imagines estan estiradas porq yo las e cojido ya estiradas y las e exportado estiradas y ahora mismo esn estiradas
 
 
 
